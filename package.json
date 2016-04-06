@@ -14,6 +14,9 @@
   "keywords": [
     "qrcode"
   ],
+  "dependencies": {
+    "nodelibs-buffer": "git://github.com/jspm/nodelibs-buffer.git"
+  },
   "devDependencies": {
     "tap": ""
   },

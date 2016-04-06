@@ -14,6 +14,7 @@
 //	http://www.denso-wave.com/qrcode/faqpatent-e.html
 //
 //---------------------------------------------------------------------
+var Buffer = require('nodelibs-buffer').Buffer;
 
 exports.qrcode = function() {
 
